@@ -139,7 +139,12 @@ Analysis includes year-on-year comparison, unit sales trends, customer segmentat
 - OTC vs Prescription: Units roughly 70:30; mirrors revenue trends  
 - Single Product Risk: Heavy reliance on one SKU is a business vulnerability  
 
----
+![my visual](visual/Customers_overview.jpg)
+         
+![my visual](visual/Product_performance.jpg)
+
+![my visual](visual/Sales_overview.jpg)
+
 
 ## 10. Actionable Recommendations
 
